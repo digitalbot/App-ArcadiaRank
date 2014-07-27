@@ -1,5 +1,5 @@
 package App::ArcadiaRank;
-use v5.10;
+use 5.010;
 use warnings; no warnings 'experimental';
 use utf8;
 use Encode;

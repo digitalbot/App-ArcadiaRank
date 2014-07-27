@@ -1,4 +1,4 @@
-requires 'perl', '>= 5.10.0';
+requires 'perl', '>= 5.010';
 
 requires 'Web::Query';
 requires 'Coro';

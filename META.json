@@ -47,7 +47,7 @@
             "Encode" : "0",
             "Getopt::Long" : "0",
             "Web::Query" : "0",
-            "perl" : "5.10"
+            "perl" : "5.010"
          }
       },
       "test" : {
@@ -57,5 +57,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/digitalbot/App-ArcadiaRank/issues"
+      },
+      "homepage" : "https://github.com/digitalbot/App-ArcadiaRank",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/digitalbot/App-ArcadiaRank.git",
+         "web" : "https://github.com/digitalbot/App-ArcadiaRank"
+      }
+   },
    "version" : "0.0.1"
 }
