@@ -1,0 +1,10 @@
+#!/usr/bin/env perl
+use 5.010;
+use warnings; no warnings 'experimental';
+use utf8;
+use App::ArcadiaRank;
+
+App::ArcadiaRank->new->run(@ARGV);
+
+
+__END__
