@@ -8,7 +8,7 @@ use Web::Query;
 use Coro;
 use Coro::LWP;
 
-our $VERSION = '0.0.1';
+our $VERSION = '0.0.2';
 
 sub new {
     my ($class) = @_;

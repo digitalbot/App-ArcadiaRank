@@ -1,5 +1,5 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "It's new cli app of arcadia(http://www.mai-net.net/) ranking.",
    "author" : [
       "kosuke <kosuke.n27@gmail.com>"
    ],
@@ -68,5 +68,5 @@
          "web" : "https://github.com/digitalbot/App-ArcadiaRank"
       }
    },
-   "version" : "0.0.1"
+   "version" : "0.0.2"
 }

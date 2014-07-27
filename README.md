@@ -4,7 +4,7 @@ App::ArcadiaRank - It's new cli app of arcadia(http://www.mai-net.net/) ranking.
 
 # SYNOPSIS
 
-only  
+only
 
     $ arcadiarank
 
