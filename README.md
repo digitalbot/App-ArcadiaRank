@@ -1,18 +1,18 @@
 # NAME
 
-App::ArcadiaRank - It's new $module
+App::ArcadiaRank - It's new cli app of arcadia(http://www.mai-net.net/) ranking.
 
 # SYNOPSIS
 
-    use App::ArcadiaRank;
+    $ arcadiarank
 
 # DESCRIPTION
 
-App::ArcadiaRank is ...
+App::ArcadiaRank is a library of arcadia's ss ranking.
 
 # LICENSE
 
-Copyright (C) kosuke.
+Copyright (C) kosuke a.k.a. digitalbot.
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
